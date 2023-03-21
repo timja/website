@@ -30,7 +30,7 @@
     "clipboard": "^2.0.8",
     "eslint": "^8.0",
     "flexsearch": "^0.6.32",
-    "instant.page": "^5.1",
+    "instant.page": "^5.2",
     "lazysizes": "^5.3",
     "markdownlint-cli": "^0.29",
     "netlify-lambda": "^2.0",
